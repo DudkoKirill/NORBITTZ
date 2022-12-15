@@ -1,0 +1,21 @@
+.groups_table{
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+}
+.group_row{
+    display: flex;
+}
+.group_row>div{
+    padding: 20px;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.group_id{
+    width: 20%;
+}
+.group_name{
+    width: 20%;
+}
+.group_desc{
+    width: 60%;
+}
