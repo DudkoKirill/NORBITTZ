@@ -1,0 +1,21 @@
+.currencies_table{
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+}
+.currency_row{
+    display: flex;
+}
+.currency_row>div{
+    padding: 20px;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.currency_code{
+    width: 20%;
+}
+.currency_name{
+    width: 20%;
+}
+.currency_value{
+    width: 60%;
+}
